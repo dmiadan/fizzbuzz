@@ -1,0 +1,12 @@
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Properties.Resources.resources
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.GenerateResource.Cache
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+c:\users\ddanes\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.frmFizzBuzz.resources
+C:\Users\ddanes\Documents\GitHub\fizzbuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\ddanes\Documents\GitHub\fizzbuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\ddanes\Documents\GitHub\fizzbuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
